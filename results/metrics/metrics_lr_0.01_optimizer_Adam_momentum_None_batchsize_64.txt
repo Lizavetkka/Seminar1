@@ -1,0 +1,4 @@
+Learning Rate: 0.01, Optimizer: Adam, Momentum: None, Batch Size: 64
+Final Train Loss: 0.3779556913607156, Train Accuracy: 0.8613
+Final Val Loss: 0.46736864252075266, Val Accuracy: 0.8366
+Total Training Time: 11.88s

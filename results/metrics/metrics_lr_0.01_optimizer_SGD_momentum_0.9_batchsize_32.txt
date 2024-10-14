@@ -1,0 +1,4 @@
+Learning Rate: 0.01, Optimizer: SGD, Momentum: 0.9, Batch Size: 32
+Final Train Loss: 0.29565364968776703, Train Accuracy: 0.8896333333333334
+Final Val Loss: 0.3757269477929932, Val Accuracy: 0.8648
+Total Training Time: 13.39s
